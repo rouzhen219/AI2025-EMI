@@ -14,7 +14,7 @@
 2. 醫療 (Healthcare)：醫學影像分析、健康監測、藥物開發
 3. 商業 (Business)：市場分析、自動客服、產品設計
 
-*Education: AI tutors, auto-grading, personalized learning
+* Education: AI tutors, auto-grading, personalized learning
 * Healthcare: Medical imaging, health monitoring, drug discovery
 * Business: Market analysis, AI chatbots, product design
 
@@ -25,7 +25,7 @@
 >Provides emotional support through conversations
 >Analyzes mood changes & promotes mental well-being
 ---
-###What GAI Platforms Are Available?
+### What GAI Platforms Are Available?
 
 #### Q1: 哪個 GAI 平台最強？Which GAI platform is the most powerful?
 * 取決於用途 (Depends on usage)：
