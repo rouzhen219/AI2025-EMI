@@ -19,16 +19,16 @@
 * Business: Market analysis, AI chatbots, product design
 
 #### Q3: 如果開發新 AI 工具，你會解決什麼問題？
-*我的選擇：AI 心理健康助手 
+* 我的選擇：AI 心理健康助手 
 >透過對話提供情緒支持，分析用戶情緒變化，幫助人們處理壓力，提高心理健康意識
-*My choice: AI mental health assistant 
+* My choice: AI mental health assistant 
 >Provides emotional support through conversations
 >Analyzes mood changes & promotes mental well-being
 ---
 ###What GAI Platforms Are Available?
 
 #### Q1: 哪個 GAI 平台最強？Which GAI platform is the most powerful?
-*取決於用途 (Depends on usage)：
+* 取決於用途 (Depends on usage)：
 文本（Text）：ChatGPT (GPT-4)、Claude、Gemini
 圖像（Image）：Midjourney、Stable Diffusion、DALL·E
 程式碼（Code）：Codex、AlphaCode
