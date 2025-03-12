@@ -8,8 +8,9 @@
 ### 1. Basic Summarization (基本總結, 基本要約)
 *Learn to summarize texts*
 
->該文章探討了美國消費主義的發展，特別是在戰後時期，如何透過消費心理學刺激經濟增長。文章指出，雖然經濟學家通常將消費者的偏好視為既定，但社會學家如托斯丹·范伯倫則認為，消費行為更多地與社會地位有關。戰後美國的廣告業面臨挑戰，即如何讓人們渴望已經擁有的東西，從而推動經濟持續增長。  
->The article explores the development of consumerism in the United States, particularly in the post-war period, and how consumer psychology was used to stimulate economic growth. It points out that while economists often view consumer preferences as given, sociologists like Thorstein Veblen argue that consumption behavior is more related to social status. After the war, the American advertising industry faced the challenge of making people desire what they already had in order to drive continuous economic growth.
+該文章探討了美國消費主義的發展，特別是在戰後時期，如何透過消費心理學刺激經濟增長。文章指出，雖然經濟學家通常將消費者的偏好視為既定，但社會學家如托斯丹·范伯倫則認為，消費行為更多地與社會地位有關。戰後美國的廣告業面臨挑戰，即如何讓人們渴望已經擁有的東西，從而推動經濟持續增長。 
+
+The article explores the development of consumerism in the United States, particularly in the post-war period, and how consumer psychology was used to stimulate economic growth. It points out that while economists often view consumer preferences as given, sociologists like Thorstein Veblen argue that consumption behavior is more related to social status. After the war, the American advertising industry faced the challenge of making people desire what they already had in order to drive continuous economic growth.
 
 ### 2. Keyword Extraction (關鍵詞萃取, キーワード抽出)
 *Extract important terms from text*
@@ -31,15 +32,14 @@
 
 >"Translate:'  The article explores the development of consumerism in the United States,' intoTraditional Chinese."
 
->- **Traditional Chinese:** 該文章探討了美國消費主義的發展。  
+- **Traditional Chinese:** 該文章探討了美國消費主義的發展。  
 
 ### 4. Long Text Summarization (長篇文章總結, 長文要約)
 *Summarize large amounts of text*
 >"Summarize large amounts of text*Traditional Chinese , Japanese English (30 words)"
+
 **Traditional Chinese:** 文章探討美國戰後消費主義的發展，強調消費心理學、社會地位與廣告業如何推動經濟增長。社會學家如范伯倫認為消費與社會階層密切相關。  
-
 **Japanese:** 記事は、戦後アメリカの消費主義の発展を分析し、消費心理学、社会的地位、広告業が経済成長を促進する方法を強調。ヴェブレンは消費と階級の関連を指摘。  
-
 **English:** The article examines post-war American consumerism, highlighting how consumer psychology, social status, and advertising drove economic growth. Sociologist Veblen argued that consumption is closely tied to social class.
 
 ### 5. Structured Extraction (指定格式萃取, 構造化抽出)
@@ -68,25 +68,53 @@
 *Compare different writing tones*
 >Explain this article formally and informally in 30 words in English, Chinese, and Japanese.
 
->### **Formal Explanation**  
->**English:** The article examines post-war American consumerism, focusing on how consumer psychology, advertising, and social status influenced economic growth. It references sociologists like Veblen and Riesman to analyze changing consumption behaviors.  
->**Chinese (繁體):** 文章探討戰後美國的消費主義，重點關注消費心理學、廣告與社會地位如何影響經濟增長，並引用范伯倫與里斯曼等社會學家的觀點來分析消費行為變遷。  
->**Japanese:** 記事は戦後アメリカの消費主義を分析し、消費心理学、広告、社会的地位が経済成長に与えた影響に焦点を当て、ヴェブレンやリースマンの理論を引用しています。  
+#### **Formal Explanation**  
+**English:** The article examines post-war American consumerism, focusing on how consumer psychology, advertising, and social status influenced economic growth. It references sociologists like Veblen and Riesman to analyze changing consumption behaviors.  
+**Chinese (繁體):** 文章探討戰後美國的消費主義，重點關注消費心理學、廣告與社會地位如何影響經濟增長，並引用范伯倫與里斯曼等社會學家的觀點來分析消費行為變遷。  
+**Japanese:** 記事は戦後アメリカの消費主義を分析し、消費心理学、広告、社会的地位が経済成長に与えた影響に焦点を当て、ヴェブレンやリースマンの理論を引用しています。  
 
->### **Informal Explanation**  
->**English:** This article talks about how Americans changed their way of buying things after the war. It explains how ads and social trends made people want more, using ideas from famous sociologists.  
->**Chinese (繁體):** 這篇文章講的是戰後美國人如何改變消費方式，解釋廣告和社會趨勢如何讓人們想買更多，並引用了一些著名社會學家的想法。  
->**Japanese:** この記事は、戦後アメリカ人の買い物の仕方がどう変わったかを説明し、広告や社会の流れが人々の欲望に影響を与えたことを紹介しています。  
+#### **Informal Explanation**  
+**English:** This article talks about how Americans changed their way of buying things after the war. It explains how ads and social trends made people want more, using ideas from famous sociologists.  
+**Chinese (繁體):** 這篇文章講的是戰後美國人如何改變消費方式，解釋廣告和社會趨勢如何讓人們想買更多，並引用了一些著名社會學家的想法。  **Japanese:** この記事は、戦後アメリカ人の買い物の仕方がどう変わったかを説明し、広告や社会の流れが人々の欲望に影響を与えたことを紹介しています。  
 
 ### 8. Humorous Explanation (幽默解釋, ユーモラスな説明)
+*Explain a concept in a fun way*
+>Explain this article in a humorous tone in 30 words in English, Traditional Chinese, and Japanese."
+#### **Humorous Explanation**  
+**English:** After the war, Americans started buying everything in sight! Ads and social trends convinced them they *needed* more stuff, all while sociologists like Veblen sat back and took notes.  
+**Chinese (繁體):** 戰後美國人開始瘋狂買東西！廣告和社會潮流讓他們覺得自己「需要」更多東西，而像范伯倫的社會學家則在旁邊默默記筆記。  
+**Japanese:** 戦後、アメリカ人は目に入るものすべてを買い始めた！広告と社会の流れが「もっと必要だ！」と信じ込ませ、ヴェブレンのような社会学者は横でメモを取っていた。 
+
+
 ### 9. Simple Sentence Rewriting (簡單句型調整, シンプルな文書き換え)
+*Make complex text easier to understand*
+>Explain this article in simple terms in 30 words in English, Traditional Chinese, and Japanese."
+
+#### **Simple Explanation**  
+**English:** This article talks about how after World War II, Americans started buying more things because of ads and social pressure, with sociologists like Veblen explaining how people’s desires changed.  
+**Chinese (繁體):** 這篇文章說的是，二戰後美國人因為廣告和社會壓力開始購買更多東西，像范伯倫這樣的社會學家解釋了人們需求變化的原因。  
+**Japanese:** この記事は、第二次世界大戦後、アメリカ人が広告や社会的圧力でより多くのものを買うようになり、ヴェブレンのような社会学者がその理由を説明している内容です。 
+
 ### 10.Multi-Step Summarization (多步操作總結, 多段要約)
+*Summarize text and extract key principles*
+>"Summarize this article and extract its strategic principles in 30 words in English, Traditional Chinese,"
 
+#### **Summary and Strategic Principles**  
 
+**English:** The article explores how post-war consumerism in the U.S. was driven by advertising and social trends. Key principles: leveraging consumer psychology, social influence, and strategic marketing to boost economic growth.
 
+**Chinese (繁體):** 文章探討戰後美國消費主義如何受到廣告和社會趨勢驅動。關鍵原則：利用消費者心理、社會影響力及策略性行銷來促進經濟增長。
 
-- Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
-
-
-- 
 ---
+##- Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
+
+
+##- Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
+
+##- Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
+
+---
+## Intermediate Labs (中級ラボ) – 10 Labs
+
+
+
