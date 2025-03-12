@@ -1,6 +1,6 @@
 ## Unit 4 GAI Workshop🛠️ - Prompt Engineering: Enhance AI Applications & Unlock the Smart Future, 2W
 
--https://global.udn.com/global_vision/story/8664/8593026/
+- ! []https://global.udn.com/global_vision/story/8664/8593026/
 
 ### Beginner Labs (初級ラボ) – 10 Labs, W4
 #### 1. Basic Summarization (基本總結, 基本要約)
