@@ -8,9 +8,8 @@
 ### 1. Basic Summarization (基本總結, 基本要約)
 *Learn to summarize texts*
 
-該文章探討了美國消費主義的發展，特別是在戰後時期，如何透過消費心理學刺激經濟增長。文章指出，雖然經濟學家通常將消費者的偏好視為既定，但社會學家如托斯丹·范伯倫則認為，消費行為更多地與社會地位有關。戰後美國的廣告業面臨挑戰，即如何讓人們渴望已經擁有的東西，從而推動經濟持續增長。  
-
-The article explores the development of consumerism in the United States, particularly in the post-war period, and how consumer psychology was used to stimulate economic growth. It points out that while economists often view consumer preferences as given, sociologists like Thorstein Veblen argue that consumption behavior is more related to social status. After the war, the American advertising industry faced the challenge of making people desire what they already had in order to drive continuous economic growth.
+>該文章探討了美國消費主義的發展，特別是在戰後時期，如何透過消費心理學刺激經濟增長。文章指出，雖然經濟學家通常將消費者的偏好視為既定，但社會學家如托斯丹·范伯倫則認為，消費行為更多地與社會地位有關。戰後美國的廣告業面臨挑戰，即如何讓人們渴望已經擁有的東西，從而推動經濟持續增長。  
+>The article explores the development of consumerism in the United States, particularly in the post-war period, and how consumer psychology was used to stimulate economic growth. It points out that while economists often view consumer preferences as given, sociologists like Thorstein Veblen argue that consumption behavior is more related to social status. After the war, the American advertising industry faced the challenge of making people desire what they already had in order to drive continuous economic growth.
 
 ### 2. Keyword Extraction (關鍵詞萃取, キーワード抽出)
 *Extract important terms from text*
@@ -32,7 +31,7 @@ The article explores the development of consumerism in the United States, partic
 
 >"Translate:'  The article explores the development of consumerism in the United States,' intoTraditional Chinese."
 
-- **Traditional Chinese:** 該文章探討了美國消費主義的發展。  
+>- **Traditional Chinese:** 該文章探討了美國消費主義的發展。  
 
 ### 4. Long Text Summarization (長篇文章總結, 長文要約)
 *Summarize large amounts of text*
@@ -67,7 +66,17 @@ The article explores the development of consumerism in the United States, partic
 
 ### 7. Formal vs. Informal Writing (正式 vs 非正式, フォーマル vs インフォーマル)
 *Compare different writing tones*
+>Explain this article formally and informally in 30 words in English, Chinese, and Japanese.
 
+>### **Formal Explanation**  
+>**English:** The article examines post-war American consumerism, focusing on how consumer psychology, advertising, and social status influenced economic growth. It references sociologists like Veblen and Riesman to analyze changing consumption behaviors.  
+>**Chinese (繁體):** 文章探討戰後美國的消費主義，重點關注消費心理學、廣告與社會地位如何影響經濟增長，並引用范伯倫與里斯曼等社會學家的觀點來分析消費行為變遷。  
+>**Japanese:** 記事は戦後アメリカの消費主義を分析し、消費心理学、広告、社会的地位が経済成長に与えた影響に焦点を当て、ヴェブレンやリースマンの理論を引用しています。  
+
+>### **Informal Explanation**  
+>**English:** This article talks about how Americans changed their way of buying things after the war. It explains how ads and social trends made people want more, using ideas from famous sociologists.  
+>**Chinese (繁體):** 這篇文章講的是戰後美國人如何改變消費方式，解釋廣告和社會趨勢如何讓人們想買更多，並引用了一些著名社會學家的想法。  
+>**Japanese:** この記事は、戦後アメリカ人の買い物の仕方がどう変わったかを説明し、広告や社会の流れが人々の欲望に影響を与えたことを紹介しています。  
 
 ### 8. Humorous Explanation (幽默解釋, ユーモラスな説明)
 ### 9. Simple Sentence Rewriting (簡單句型調整, シンプルな文書き換え)
