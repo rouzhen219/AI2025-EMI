@@ -64,10 +64,10 @@ AI is transforming the job market in Taiwan in several significant ways. Here’
    - **Impact**: The increased use of AI in Taiwan also raises ethical, regulatory, and privacy concerns. As AI continues to evolve, the government and various organizations are working on creating regulations around AI use, data privacy, and workforce displacement.
    - **Result**: This fosters new roles in policy-making, legal regulation, and ethics committees focused on AI applications, adding another layer of professional opportunities and challenges.
 
----
 
 ### **Conclusion**
 AI is reshaping Taiwan's job market by automating routine tasks, creating new industries and job roles, and increasing the demand for skilled workers in technology and AI fields. While some jobs are displaced, the overall transformation presents new opportunities, particularly for those who upskill in emerging technologies. Taiwan’s workforce is gradually evolving to meet the demands of this AI-driven future, with both challenges and opportunities ahead.
 
+---
 
 ## Quiz 3: Zero-Shot vs. Few-Shot Learning 
