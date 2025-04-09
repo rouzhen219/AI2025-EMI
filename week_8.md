@@ -83,7 +83,7 @@ ________________________________________
 ###  Q3.2 Morphological Parsing（形態分析）
 Prompt 給學生：
 "Please break down the Xhosa word ‘Ndingasifundisa’ into its grammatical parts and explain the meaning of each part."
- ChatGPT 分析範例：
+分析範例：
 Ndingasifundisa →
 •	Ndi- = I (subject prefix)
 •	-nga- = can (modal prefix, expressing ability)
@@ -100,7 +100,7 @@ Prompt 給學生：
 "Translate ‘They still love us’ into Xhosa using ChatGPT. Then compare it with a classmate's translation. Answer the following questions:
 a) How is ‘still’ represented in the verb?
 b) What is the object prefix for ‘us’?"
-ChatGPT 翻譯產出：
+ 翻譯產出：
 Basasithanda
 •	ba- = they (subject prefix)
 •	sa- = still (aspect marker)
